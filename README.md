@@ -22,6 +22,9 @@ This project demonstrates a Single Area OSPF configuration in Cisco Packet Trace
 - show ip route
 - ping
 
+- <img width="1347" height="561" alt="SINGLE OSPF" src="https://github.com/user-attachments/assets/cb7538ae-5c75-49b8-953d-649169744a46" />
+
+
 ## Objective
 To understand how OSPF forms neighbor relationships and shares routes within Area 0.
 
